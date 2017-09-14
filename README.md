@@ -7,7 +7,7 @@ installed with [brew](https://brew.sh), a "package manager" for MacOS.
 ## How To
 
 To install a program you first need to `brew
-[tap](https://docs.brew.sh/brew-tap.html)` this repository to get the formulae. 
+tap` this repository to get the formulae. See [tap](https://docs.brew.sh/brew-tap.html) docs for more on `brew tap`.
 
 Open a terminal and run the following `brew` command:
 
