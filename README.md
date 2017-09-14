@@ -1,4 +1,4 @@
-# homebrew-tab
+# homebrew-tap
 > Collection of formulae for brew
 
 This repository holds formulae for installing tools I created. Formulae can be
